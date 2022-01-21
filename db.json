@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": 3,
+      "name": "Roni Setiawann",
+      "phone": "054328738322"
+    },
+    {
+      "name": "Jack Berwin",
+      "phone": "085778665767",
+      "id": 4
+    },
+    {
+      "name": "Gugus Wijata",
+      "phone": "089667899964",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Reka Anatasya",
+      "phone": "089662772888"
+    },
+    {
+      "id": 8,
+      "name": "Maya Sari",
+      "phone": "081226347483"
+    },
+    {
+      "id": 9,
+      "name": "Reza Buganta",
+      "phone": "086335666225"
+    },
+    {
+      "id": 10,
+      "name": "Solihun Nurudin",
+      "phone": "087663554647"
+    },
+    {
+      "id": 11,
+      "name": "Santika Aulia",
+      "phone": "086772837464"
+    },
+    {
+      "id": 12,
+      "name": "Tejo Laksono",
+      "phone": "081226353443"
+    }
+  ]
+}
