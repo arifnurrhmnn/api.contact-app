@@ -1,3 +1,1 @@
-How To Start Serever?
-
-npx json-server --watch db.json
+https://api-contact-app-jack.herokuapp.com/
